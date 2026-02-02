@@ -2,7 +2,6 @@
 
 PRD refinado no Copilot Web: 
 
-...markdown
 PRD – App Financeiro Conversacional com Design Universal
 
 1. Visão Geral
@@ -33,24 +32,25 @@ Requisitos de Design Universal:
 - Assistente amigável, paciente e claro.
 - Experiência leve, humana e motivadora.
 
-6. Funcionalidades Principais
-1. Registro de gastos via chat
+6. Funcionalidades Principais:
+
+a) Registro de gastos via chat
    - Usuário digita frases como “gastei 35 reais com almoço”.
    - O sistema extrai valor, categoria e data automaticamente.
 
-2. Classificação automática
+b) Classificação automática
    - Categorias sugeridas automaticamente.
    - Usuário pode corrigir via chat.
 
-3. Metas financeiras
+c) Metas financeiras
    - Usuário define metas como “quero economizar 300 reais este mês”.
    - O app acompanha e envia alertas amigáveis.
 
-4. Agente Financeiro
+d) Agente Financeiro
    - Envia dicas personalizadas de economia.
    - Sugere hábitos melhores com base no comportamento.
 
-5. Relatórios simples e acessíveis
+e) Relatórios simples e acessíveis
    - Resumo semanal e mensal.
    - Gráficos simples e versão textual alternativa.
    - Insights diretos e fáceis de entender.
@@ -94,12 +94,12 @@ Resultado Final no Lovable: https://hey-money-friend.lovable.app/auth
 
 <img width="1357" height="598" alt="image" src="https://github.com/user-attachments/assets/63afe7d0-4787-43e6-9c1d-11e62855e081" />
 
-O APP funciona como seu assistente que realiza:
-**Registro de Gastos:** Você diz o que gastou e ele anota tudo para você. 
-**Categorização Automática:** Organiza seus gastos em grupos como Alimentação, Transporte, Lazer e Contas para você saber exatamente para onde vai seu dinheiro. 
-**Resumos Financeiros:** Pode te mostrar quanto você já gastou no mês e quais são suas maiores despesas. 
-**Dicas de Economia:** Com base nos registros, dá sugestões práticas para você poupar. 
-**Metas:** Ajuda você a definir e acompanhar objetivos, como guardar dinheiro para uma viagem ou reserva de emergência.
+## O APP funciona como seu assistente capaz de realizar:
+### Registro de Gastos: Você diz o que gastou e ele anota tudo para você. 
+### Categorização Automática: Organiza seus gastos em grupos como Alimentação, Transporte, Lazer e Contas para você saber exatamente para onde vai seu dinheiro. 
+### Resumos Financeiros: Pode te mostrar quanto você já gastou no mês e quais são suas maiores despesas. 
+### Dicas de Economia: Com base nos registros, dá sugestões práticas para você poupar. 
+### Metas: Ajuda você a definir e acompanhar objetivos, como guardar dinheiro para uma viagem ou reserva de emergência.
 
 ## Reflexão sobre o processo:
 
